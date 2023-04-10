@@ -1,5 +1,6 @@
 # Conversor de Moedas - Cursos de Inverno Projeto Katie :money_with_wings:
-*mais sobre o Katie: [clique aqui e veja nosso site](https://ic.ufal.br/extensao/katie/)*
+> Projeto que ajudei a desenvolver para o Minicurso de Desenvolvimento Web do Grupo Katie (2022) no qual ministrei a parte de front-end.
+> *mais sobre o Katie: [clique aqui e veja nosso site](https://ic.ufal.br/extensao/katie/)*
 
 ![Conversor de Moedas](/conversor.gif)
 
